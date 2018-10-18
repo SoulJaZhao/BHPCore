@@ -1,0 +1,22 @@
+{
+  "name": "BHPCore",
+  "version": "0.1.0",
+  "summary": "A short description of BHPCore.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SoulJa Zhao/BHPCore",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SoulJa Zhao": "long.zhao@bhpbilliton.com"
+  },
+  "source": {
+    "git": "https://github.com/SoulJa Zhao/BHPCore.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BHPCore/Classes/**/*"
+}

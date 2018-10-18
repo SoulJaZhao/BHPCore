@@ -1,0 +1,6 @@
+framework module BHPCore {
+  umbrella header "BHPCore-umbrella.h"
+
+  export *
+  module * { export * }
+}
