@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BHPCore_Example' do
+  pod 'BHPCore', :path => '../'
+
+  target 'BHPCore_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
